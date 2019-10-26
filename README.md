@@ -7,4 +7,4 @@ A tool that "pokes" members of Founders to remind them to like/share events + re
 - event registration: google form listener -> write to db
 - fb listener: check if person has actually liked/shared post 
 - twilio reminder bot: check event db, and see if someone hasn't liked/shared yet + send reminder. 
-- reward tracking db
+- reward registration + reward tracking
